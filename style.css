@@ -21,7 +21,7 @@ main {
   color: #0A100D;
 }
 
-main.wrapper{
+.wrapper{
   padding:60px;
   margin:auto;
 
