@@ -16,7 +16,7 @@ nav a {
 }
 
 main {
-  padding:30px 130px;
+  padding:130px;
   font-family:Helvetica, sans-serif;
   color: #0A100D;
 }
@@ -25,6 +25,7 @@ main {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  padding:30px;
 }
 main h2 {
   font-size: 20px;
