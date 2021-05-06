@@ -16,17 +16,16 @@ nav a {
 }
 
 main {
-  padding:100px 30px;
+  padding:130px 30px;
   font-family:Helvetica, sans-serif;
   color: #0A100D;
 }
 
-.wrapper{
-  padding:60px;
-  margin:auto;
-
+.aligncenter {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
 main h2 {
   font-size: 20px;
 }
