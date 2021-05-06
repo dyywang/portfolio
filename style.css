@@ -21,6 +21,12 @@ main {
   color: #0A100D;
 }
 
+main.wrapper{
+  padding:60px;
+  margin:auto;
+
+}
+
 main h2 {
   font-size: 20px;
 }
