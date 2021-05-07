@@ -39,14 +39,14 @@ main h3 {
 
 
 main a:link {
-  color:#0A100D;
+  color:#818479;
 }
 main a:visited {
-  color:#0A100D;
+  color:#818479;
 }
 
 main a:hover {
-  color:rgb(151, 76, 5);
+  color:#000000;
 }
 
 header {
