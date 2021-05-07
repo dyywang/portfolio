@@ -10,7 +10,7 @@ nav a {
   text-decoration: none;
   margin-right: 40px;
   font-size: 18px;
-  color: #F17300;
+  color: #FFC085;
   font-family: Quattrocento, sans-serif;
   
 }
@@ -39,19 +39,19 @@ main h3 {
 
 
 main a:link {
-  color:#818479;
+  color:#3F403A;
 }
 main a:visited {
-  color:#818479;
+  color:#3F403A;
 }
 
 main a:hover {
-  color:#000000;
+  color:#212220;
 }
 
 header {
   min-height: 100px;
-  background-color:#06407A;
+  background-color:#032E49;
   text-align: center;
   padding:20px;
 }
